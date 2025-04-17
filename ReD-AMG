@@ -1,0 +1,67 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ReD - Remember Every Dream</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f8f8f8; color: #333; }
+    header { background: #d90000; color: white; padding: 20px 10px; text-align: center; }
+    nav { background: #111; padding: 10px; text-align: center; }
+    nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }
+    section { padding: 20px; }
+    footer { background: #222; color: white; text-align: center; padding: 15px 10px; margin-top: 30px; }
+    .logo { font-size: 28px; font-weight: bold; }
+    .slogan { font-size: 18px; font-style: italic; }
+    .ad-block { background: white; border: 1px solid #ddd; padding: 15px; margin-bottom: 15px; border-radius: 8px; }
+    .ad-block img { max-width: 100%; border-radius: 5px; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="logo">ReD</div>
+    <div class="slogan">Remember Every Dream</div>
+  </header>
+  <nav>
+    <a href="#about">About</a>
+    <a href="#services">Services</a>
+    <a href="#ads">Latest Ads</a>
+    <a href="#contact">Contact</a>
+  </nav>  <section id="about">
+    <h2>About ReD</h2>
+    <p>ReD stands for "Remember Every Dream" — a platform created to uplift and support people by giving them a space to advertise their services, products, or dreams completely for free.</p>
+  </section>  <section id="services">
+    <h2>Our Services</h2>
+    <p>We create and post free advertisements for anyone. Whether you are a small business, an individual with a dream, or someone just starting — ReD is here for you.</p>
+    <p>You send us your advert, and we post it. No charge. Just support.</p>
+  </section>  <section id="ads">
+    <h2>Latest Ads</h2><!-- Sample Ad Block Start -->
+<div class="ad-block">
+  <h3>Kwame's Catering</h3>
+  <p><strong>Service:</strong> Home-cooked meals for delivery</p>
+  <p><strong>Contact:</strong> 055-123-4567</p>
+  <img src="https://via.placeholder.com/400x200" alt="Kwame's Catering Food Image">
+</div>
+
+<div class="ad-block">
+  <h3>Ama's Braids</h3>
+  <p><strong>Service:</strong> Braiding & Styling in Accra</p>
+  <p><strong>Contact:</strong> 024-987-6543</p>
+  <img src="https://via.placeholder.com/400x200" alt="Ama's Braids Sample Work">
+</div>
+<!-- Sample Ad Block End -->
+
+<!-- TO ADD NEW ADS: COPY FROM <div class="ad-block"> TO </div> AND PASTE BELOW -->
+
+  </section>  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>You can reach ReD via:</p>
+    <ul>
+      <li>Email: redcompany@gmail.com</li>
+      <li>WhatsApp: +233 XXX XXX XXX</li>
+      <li>Instagram: @ReD.official</li>
+    </ul>
+  </section>  <footer>
+    <p>&copy; 2025 ReD Company. All dreams are welcome here.</p>
+  </footer>
+</body>
+</html>
